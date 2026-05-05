@@ -4,6 +4,8 @@
 
 Dieses Jupyter Notebook ermöglicht den **quantitativen Vergleich** verschiedener 3DGS-Modelle (`.ply`-Dateien) anhand von gerenderten Ansichten gegenüber Originalfotos. Berechnet werden die Metriken **PSNR** und **SSIM**.
 
+> **Achtung!** Bei erstmaliger Durchführung benötigt das aufsetzen der CUDA Extension ca. 12 Minuten. Dies geschieht beim Berechnen des ersten Renderings.
+
 ---
 
 ## Voraussetzungen
